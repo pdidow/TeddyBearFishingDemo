@@ -1,0 +1,596 @@
+=============================================================================
+FISH OBSERVATION DEBUG LOG - 2025-10-25 8:22:32 AM
+=============================================================================
+
+[08:22:32.793] Sauger gliding
+[08:22:32.794] Walleye gliding
+[08:22:32.794] WhiteSucker gliding
+[08:22:32.794] LongnoseSucker gliding
+[08:22:32.794] SpottailShiner gliding
+[08:22:32.794] MountainWhitefish gliding
+[08:22:32.794] CutthroatTrout gliding
+[08:22:32.794] MountainWhitefish gliding
+[08:22:34.007] Sauger changing depth from 4.1m to 2.7m
+[08:22:34.007] Walleye changing depth from 5.0m to 6.7m
+[08:22:34.007] WhiteSucker changing depth from 3.4m to 4.4m
+[08:22:34.007] LongnoseSucker changing depth from 6.0m to 7.6m
+[08:22:34.007] SpottailShiner changing depth from 1.6m to 2.5m
+[08:22:34.007] MountainWhitefish changing depth from 4.0m to 3.2m
+[08:22:34.007] CutthroatTrout changing depth from 3.3m to 4.9m
+[08:22:34.007] MountainWhitefish changing depth from 7.3m to 4.3m
+[08:22:34.106] Sauger starts swimming burst
+[08:22:34.106] Walleye starts swimming burst
+[08:22:34.106] WhiteSucker starts swimming burst
+[08:22:34.106] LongnoseSucker starts swimming burst
+[08:22:34.106] SpottailShiner starts swimming burst
+[08:22:34.106] MountainWhitefish starts swimming burst
+[08:22:34.106] CutthroatTrout starts swimming burst
+[08:22:34.106] MountainWhitefish starts swimming burst
+[08:22:34.506] Sauger wandering - Speed: 34.4, Gliding: False, Paused: False, Depth: 2.8m
+[08:22:34.506] Walleye wandering - Speed: 28.0, Gliding: False, Paused: False, Depth: 6.7m
+[08:22:34.506] WhiteSucker wandering - Speed: 33.8, Gliding: False, Paused: False, Depth: 4.4m
+[08:22:34.506] LongnoseSucker wandering - Speed: 25.9, Gliding: False, Paused: False, Depth: 7.5m
+[08:22:34.506] SpottailShiner wandering - Speed: 33.4, Gliding: False, Paused: False, Depth: 2.5m
+[08:22:34.506] MountainWhitefish wandering - Speed: 28.1, Gliding: False, Paused: False, Depth: 3.3m
+[08:22:34.506] CutthroatTrout wandering - Speed: 35.3, Gliding: False, Paused: False, Depth: 4.8m
+[08:22:34.506] MountainWhitefish wandering - Speed: 28.9, Gliding: False, Paused: False, Depth: 4.8m
+[08:22:34.523] Sauger wandering - Speed: 34.8, Gliding: False, Paused: False, Depth: 2.8m
+[08:22:34.523] Walleye wandering - Speed: 28.3, Gliding: False, Paused: False, Depth: 6.7m
+[08:22:34.523] WhiteSucker wandering - Speed: 34.2, Gliding: False, Paused: False, Depth: 4.4m
+[08:22:34.523] LongnoseSucker wandering - Speed: 26.2, Gliding: False, Paused: False, Depth: 7.5m
+[08:22:34.523] SpottailShiner wandering - Speed: 33.8, Gliding: False, Paused: False, Depth: 2.5m
+[08:22:34.523] MountainWhitefish wandering - Speed: 28.4, Gliding: False, Paused: False, Depth: 3.3m
+[08:22:34.523] CutthroatTrout wandering - Speed: 35.8, Gliding: False, Paused: False, Depth: 4.8m
+[08:22:34.523] MountainWhitefish wandering - Speed: 29.2, Gliding: False, Paused: False, Depth: 4.7m
+[08:22:34.540] Sauger wandering - Speed: 35.3, Gliding: False, Paused: False, Depth: 2.8m
+[08:22:34.540] Walleye wandering - Speed: 28.6, Gliding: False, Paused: False, Depth: 6.7m
+[08:22:34.540] WhiteSucker wandering - Speed: 34.6, Gliding: False, Paused: False, Depth: 4.4m
+[08:22:34.540] LongnoseSucker wandering - Speed: 26.4, Gliding: False, Paused: False, Depth: 7.5m
+[08:22:34.540] SpottailShiner wandering - Speed: 34.3, Gliding: False, Paused: False, Depth: 2.5m
+[08:22:34.540] MountainWhitefish wandering - Speed: 28.8, Gliding: False, Paused: False, Depth: 3.3m
+[08:22:34.540] CutthroatTrout wandering - Speed: 36.3, Gliding: False, Paused: False, Depth: 4.8m
+[08:22:34.540] MountainWhitefish wandering - Speed: 29.6, Gliding: False, Paused: False, Depth: 4.6m
+[08:22:34.705] Sauger gliding
+[08:22:34.706] Walleye gliding
+[08:22:34.706] WhiteSucker gliding
+[08:22:34.706] LongnoseSucker gliding
+[08:22:34.706] SpottailShiner gliding
+[08:22:34.706] MountainWhitefish gliding
+[08:22:34.706] CutthroatTrout gliding
+[08:22:34.706] MountainWhitefish gliding
+[08:22:36.004] Sauger changing depth from 2.8m to 2.6m
+[08:22:36.004] Walleye changing depth from 6.7m to 7.2m
+[08:22:36.004] WhiteSucker changing depth from 4.4m to 1.0m
+[08:22:36.005] LongnoseSucker changing depth from 7.5m to 4.7m
+[08:22:36.005] SpottailShiner changing depth from 2.5m to 2.9m
+[08:22:36.005] MountainWhitefish changing depth from 3.3m to 2.3m
+[08:22:36.005] CutthroatTrout changing depth from 4.8m to 4.8m
+[08:22:36.005] MountainWhitefish changing depth from 4.4m to 8.4m
+[08:22:36.205] Sauger starts swimming burst
+[08:22:36.206] Walleye starts swimming burst
+[08:22:36.206] WhiteSucker starts swimming burst
+[08:22:36.206] LongnoseSucker starts swimming burst
+[08:22:36.206] SpottailShiner starts swimming burst
+[08:22:36.206] MountainWhitefish starts swimming burst
+[08:22:36.206] CutthroatTrout starts swimming burst
+[08:22:36.206] MountainWhitefish starts swimming burst
+[08:22:36.805] Sauger gliding
+[08:22:36.805] Walleye gliding
+[08:22:36.805] WhiteSucker gliding
+[08:22:36.805] LongnoseSucker gliding
+[08:22:36.805] SpottailShiner gliding
+[08:22:36.805] MountainWhitefish gliding
+[08:22:36.805] CutthroatTrout gliding
+[08:22:36.805] MountainWhitefish gliding
+[08:22:38.004] Sauger changing depth from 2.6m to 1.4m
+[08:22:38.004] Walleye changing depth from 7.2m to 3.1m
+[08:22:38.004] WhiteSucker changing depth from 1.1m to 2.6m
+[08:22:38.004] LongnoseSucker changing depth from 4.8m to 6.6m
+[08:22:38.004] SpottailShiner changing depth from 2.9m to 1.9m
+[08:22:38.004] MountainWhitefish changing depth from 2.4m to 9.4m
+[08:22:38.004] CutthroatTrout changing depth from 4.8m to 3.9m
+[08:22:38.004] MountainWhitefish changing depth from 8.3m to 2.4m
+[08:22:38.304] Sauger starts swimming burst
+[08:22:38.304] Walleye starts swimming burst
+[08:22:38.304] WhiteSucker starts swimming burst
+[08:22:38.304] LongnoseSucker starts swimming burst
+[08:22:38.304] SpottailShiner starts swimming burst
+[08:22:38.304] MountainWhitefish starts swimming burst
+[08:22:38.304] CutthroatTrout starts swimming burst
+[08:22:38.304] MountainWhitefish starts swimming burst
+[08:22:38.904] Sauger gliding
+[08:22:38.904] Walleye gliding
+[08:22:38.904] WhiteSucker gliding
+[08:22:38.904] LongnoseSucker gliding
+[08:22:38.904] SpottailShiner gliding
+[08:22:38.904] MountainWhitefish gliding
+[08:22:38.904] CutthroatTrout gliding
+[08:22:38.904] MountainWhitefish gliding
+[08:22:40.003] Sauger changing depth from 1.5m to 2.0m
+[08:22:40.003] Walleye changing depth from 3.2m to 7.8m
+[08:22:40.003] WhiteSucker changing depth from 2.5m to 3.8m
+[08:22:40.003] LongnoseSucker changing depth from 6.6m to 3.0m
+[08:22:40.003] SpottailShiner changing depth from 2.0m to 1.0m
+[08:22:40.003] MountainWhitefish changing depth from 9.3m to 7.3m
+[08:22:40.003] CutthroatTrout changing depth from 4.0m to 4.4m
+[08:22:40.003] MountainWhitefish changing depth from 2.4m to 2.3m
+[08:22:40.402] Sauger starts swimming burst
+[08:22:40.402] Walleye starts swimming burst
+[08:22:40.402] WhiteSucker starts swimming burst
+[08:22:40.403] LongnoseSucker starts swimming burst
+[08:22:40.403] SpottailShiner starts swimming burst
+[08:22:40.403] MountainWhitefish starts swimming burst
+[08:22:40.403] CutthroatTrout starts swimming burst
+[08:22:40.403] MountainWhitefish starts swimming burst
+[08:22:40.853] Sauger pauses to rest
+[08:22:41.003] Walleye gliding
+[08:22:41.003] WhiteSucker gliding
+[08:22:41.003] LongnoseSucker gliding
+[08:22:41.003] SpottailShiner gliding
+[08:22:41.003] MountainWhitefish gliding
+[08:22:41.003] CutthroatTrout gliding
+[08:22:41.003] MountainWhitefish gliding
+[08:22:41.439] MountainWhitefish pauses to rest
+[08:22:41.617] Sauger resumes swimming after pause
+[08:22:41.617] Sauger gliding
+[08:22:42.013] Sauger changing depth from 2.0m to 4.1m
+[08:22:42.013] Walleye changing depth from 7.7m to 3.1m
+[08:22:42.013] WhiteSucker changing depth from 3.8m to 1.9m
+[08:22:42.013] LongnoseSucker changing depth from 3.0m to 7.8m
+[08:22:42.013] SpottailShiner changing depth from 1.1m to 1.7m
+[08:22:42.013] MountainWhitefish changing depth from 7.4m to 6.9m
+[08:22:42.013] CutthroatTrout changing depth from 4.4m to 2.6m
+[08:22:42.013] MountainWhitefish changing depth from 2.3m to 2.9m
+[08:22:42.188] MountainWhitefish resumes swimming after pause
+[08:22:42.188] MountainWhitefish gliding
+[08:22:42.517] Walleye starts swimming burst
+[08:22:42.517] WhiteSucker starts swimming burst
+[08:22:42.517] LongnoseSucker starts swimming burst
+[08:22:42.517] SpottailShiner starts swimming burst
+[08:22:42.517] CutthroatTrout starts swimming burst
+[08:22:42.517] MountainWhitefish starts swimming burst
+[08:22:42.721] Sauger starts investigating bait at distance 196.5
+[08:22:43.117] Walleye gliding
+[08:22:43.117] WhiteSucker gliding
+[08:22:43.117] LongnoseSucker gliding
+[08:22:43.117] SpottailShiner gliding
+[08:22:43.117] CutthroatTrout gliding
+[08:22:43.117] MountainWhitefish gliding
+[08:22:43.698] MountainWhitefish starts swimming burst
+[08:22:44.012] Walleye changing depth from 3.2m to 5.3m
+[08:22:44.012] WhiteSucker changing depth from 1.9m to 3.6m
+[08:22:44.012] LongnoseSucker changing depth from 7.7m to 1.9m
+[08:22:44.012] SpottailShiner changing depth from 1.6m to 1.0m
+[08:22:44.012] MountainWhitefish changing depth from 6.9m to 4.3m
+[08:22:44.012] CutthroatTrout changing depth from 2.6m to 4.0m
+[08:22:44.012] MountainWhitefish changing depth from 2.8m to 9.3m
+[08:22:44.271] MountainWhitefish gliding
+[08:22:44.605] Walleye starts swimming burst
+[08:22:44.605] WhiteSucker starts swimming burst
+[08:22:44.605] LongnoseSucker starts swimming burst
+[08:22:44.605] SpottailShiner starts swimming burst
+[08:22:44.605] CutthroatTrout starts swimming burst
+[08:22:44.605] MountainWhitefish starts swimming burst
+[08:22:45.206] Walleye gliding
+[08:22:45.206] WhiteSucker gliding
+[08:22:45.206] LongnoseSucker gliding
+[08:22:45.206] SpottailShiner gliding
+[08:22:45.206] CutthroatTrout gliding
+[08:22:45.206] MountainWhitefish gliding
+[08:22:45.771] MountainWhitefish starts swimming burst
+[08:22:46.003] Walleye changing depth from 5.2m to 5.7m
+[08:22:46.003] WhiteSucker changing depth from 3.6m to 3.7m
+[08:22:46.003] LongnoseSucker changing depth from 2.0m to 2.5m
+[08:22:46.003] SpottailShiner changing depth from 1.1m to 1.3m
+[08:22:46.003] MountainWhitefish changing depth from 4.4m to 6.5m
+[08:22:46.003] CutthroatTrout changing depth from 3.9m to 3.1m
+[08:22:46.003] MountainWhitefish changing depth from 9.2m to 3.1m
+[08:22:46.337] ★★★ Sauger BITES THE BAIT! ★★★
+[08:22:46.368] MountainWhitefish gliding
+[08:22:46.702] Walleye starts swimming burst
+[08:22:46.702] WhiteSucker starts swimming burst
+[08:22:46.702] LongnoseSucker starts swimming burst
+[08:22:46.702] SpottailShiner starts swimming burst
+[08:22:46.702] CutthroatTrout starts swimming burst
+[08:22:46.702] MountainWhitefish starts swimming burst
+[08:22:47.301] Walleye gliding
+[08:22:47.301] WhiteSucker gliding
+[08:22:47.301] LongnoseSucker gliding
+[08:22:47.301] SpottailShiner gliding
+[08:22:47.301] CutthroatTrout gliding
+[08:22:47.301] MountainWhitefish gliding
+[08:22:47.869] MountainWhitefish starts swimming burst
+[08:22:48.002] Walleye changing depth from 5.7m to 7.5m
+[08:22:48.002] WhiteSucker changing depth from 3.6m to 5.0m
+[08:22:48.002] LongnoseSucker changing depth from 2.4m to 2.6m
+[08:22:48.002] SpottailShiner changing depth from 1.3m to 2.7m
+[08:22:48.002] MountainWhitefish changing depth from 6.4m to 8.3m
+[08:22:48.002] CutthroatTrout changing depth from 3.2m to 8.4m
+[08:22:48.002] MountainWhitefish changing depth from 3.1m to 8.4m
+[08:22:48.035] LongnoseSucker starts investigating bait at distance 199.8
+[08:22:48.467] MountainWhitefish gliding
+[08:22:48.801] Walleye starts swimming burst
+[08:22:48.801] WhiteSucker starts swimming burst
+[08:22:48.801] SpottailShiner starts swimming burst
+[08:22:48.801] CutthroatTrout starts swimming burst
+[08:22:48.801] MountainWhitefish starts swimming burst
+[08:22:49.054] LongnoseSucker lost interest.
+[08:22:49.400] Walleye gliding
+[08:22:49.400] WhiteSucker gliding
+[08:22:49.400] SpottailShiner gliding
+[08:22:49.400] CutthroatTrout gliding
+[08:22:49.400] MountainWhitefish gliding
+[08:22:49.817] LongnoseSucker starts swimming burst
+[08:22:49.967] MountainWhitefish starts swimming burst
+[08:22:50.000] Walleye changing depth from 7.5m to 2.9m
+[08:22:50.000] WhiteSucker changing depth from 4.9m to 2.2m
+[08:22:50.001] SpottailShiner changing depth from 2.7m to 2.7m
+[08:22:50.001] MountainWhitefish changing depth from 8.3m to 8.5m
+[08:22:50.001] CutthroatTrout changing depth from 8.3m to 4.4m
+[08:22:50.001] MountainWhitefish changing depth from 8.4m to 4.1m
+[08:22:50.417] LongnoseSucker gliding
+[08:22:50.567] MountainWhitefish gliding
+[08:22:50.900] Walleye starts swimming burst
+[08:22:50.900] WhiteSucker starts swimming burst
+[08:22:50.900] SpottailShiner starts swimming burst
+[08:22:50.900] CutthroatTrout starts swimming burst
+[08:22:50.900] MountainWhitefish starts swimming burst
+[08:22:51.017] LongnoseSucker changing depth from 2.6m to 1.2m
+[08:22:51.502] Walleye gliding
+[08:22:51.502] WhiteSucker gliding
+[08:22:51.502] SpottailShiner gliding
+[08:22:51.502] CutthroatTrout gliding
+[08:22:51.502] MountainWhitefish gliding
+[08:22:51.916] LongnoseSucker starts swimming burst
+[08:22:58.369] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.424] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.444] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.444] Walleye changing depth from 3.0m to 7.0m
+[08:22:58.444] WhiteSucker changing depth from 2.3m to 4.8m
+[08:22:58.445] SpottailShiner changing depth from 2.7m to 2.3m
+[08:22:58.445] MountainWhitefish changing depth from 8.4m to 5.8m
+[08:22:58.445] CutthroatTrout changing depth from 4.4m to 2.8m
+[08:22:58.445] MountainWhitefish changing depth from 4.1m to 6.8m
+[08:22:58.464] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.484] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.504] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.523] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.523] MountainWhitefish starts swimming burst
+[08:22:58.543] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.562] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.581] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.603] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.626] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.645] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.667] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.686] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.705] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.724] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.742] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.760] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.779] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.797] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.818] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.839] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.860] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.880] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.897] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.914] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.933] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.952] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:58.970] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.012] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.033] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.052] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.071] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.071] LongnoseSucker gliding
+[08:22:59.090] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.107] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.126] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.146] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.163] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.183] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.201] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.219] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.239] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.239] MountainWhitefish gliding
+[08:22:59.258] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.280] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.298] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.316] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.333] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.350] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.368] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.388] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.405] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.426] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.445] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.465] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.483] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.503] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.523] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.541] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.593] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.618] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.644] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.667] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.667] Walleye starts swimming burst
+[08:22:59.667] WhiteSucker starts swimming burst
+[08:22:59.667] SpottailShiner starts swimming burst
+[08:22:59.667] CutthroatTrout starts swimming burst
+[08:22:59.667] MountainWhitefish starts swimming burst
+[08:22:59.688] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.688] LongnoseSucker changing depth from 1.2m to 3.1m
+[08:22:59.710] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.732] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.752] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.778] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.801] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.825] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.851] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.873] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.895] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.914] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.931] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.949] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.967] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:22:59.984] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.002] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.025] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.045] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.063] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.082] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.099] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.117] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.134] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.155] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.174] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.197] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.215] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.232] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.250] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.269] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.286] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.307] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.327] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.346] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.369] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.391] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.391] Walleye gliding
+[08:23:00.391] WhiteSucker gliding
+[08:23:00.391] SpottailShiner gliding
+[08:23:00.391] CutthroatTrout gliding
+[08:23:00.391] MountainWhitefish gliding
+[08:23:00.410] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.431] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.452] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.475] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.495] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.515] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.535] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.558] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.579] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.598] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.616] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.637] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.657] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.676] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.696] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.715] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.735] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.755] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.783] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.805] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.825] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.845] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.866] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.888] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.888] Walleye changing depth from 6.9m to 5.1m
+[08:23:00.888] WhiteSucker changing depth from 4.8m to 3.4m
+[08:23:00.888] SpottailShiner changing depth from 2.4m to 1.1m
+[08:23:00.888] MountainWhitefish changing depth from 5.8m to 3.9m
+[08:23:00.888] CutthroatTrout changing depth from 2.9m to 5.8m
+[08:23:00.888] MountainWhitefish changing depth from 6.7m to 5.0m
+[08:23:00.912] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.912] LongnoseSucker starts swimming burst
+[08:23:00.932] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.953] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.973] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:00.996] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.022] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.042] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.065] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.085] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.105] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.105] MountainWhitefish starts swimming burst
+[08:23:01.124] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.142] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.160] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.179] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.198] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.217] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.240] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.258] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.275] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.292] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.311] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.329] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.349] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.370] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.389] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.408] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.427] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.449] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.468] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.487] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.504] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.521] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.539] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.558] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.576] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.594] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.612] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.612] LongnoseSucker gliding
+[08:23:01.633] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.653] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.675] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.695] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.715] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.734] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.753] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.774] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.792] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.793] MountainWhitefish gliding
+[08:23:01.811] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.831] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.854] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.875] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.897] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.918] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.940] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.959] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:01.979] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.000] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.020] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.039] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.059] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.079] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.100] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.101] LongnoseSucker changing depth from 3.0m to 4.5m
+[08:23:02.122] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.141] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.158] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.176] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.194] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.194] Walleye starts swimming burst
+[08:23:02.194] WhiteSucker starts swimming burst
+[08:23:02.194] SpottailShiner starts swimming burst
+[08:23:02.194] CutthroatTrout starts swimming burst
+[08:23:02.194] MountainWhitefish starts swimming burst
+[08:23:02.213] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.234] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.253] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.272] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.292] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.310] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.328] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.345] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.361] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.377] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.423] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.442] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.460] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.478] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.495] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.517] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.534] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.552] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.570] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.586] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.603] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.621] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.640] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.658] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.677] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.696] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.715] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.734] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.754] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.773] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.791] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.810] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.831] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.851] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.871] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.890] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.890] Walleye gliding
+[08:23:02.890] WhiteSucker gliding
+[08:23:02.890] SpottailShiner gliding
+[08:23:02.890] CutthroatTrout gliding
+[08:23:02.890] MountainWhitefish gliding
+[08:23:02.909] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.927] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.945] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.966] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:02.984] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.002] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.020] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.040] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.065] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.085] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.104] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.123] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.142] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.159] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.177] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.197] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.216] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.234] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.234] Walleye changing depth from 5.2m to 4.2m
+[08:23:03.234] WhiteSucker changing depth from 3.4m to 1.7m
+[08:23:03.234] SpottailShiner changing depth from 1.1m to 1.1m
+[08:23:03.234] MountainWhitefish changing depth from 4.0m to 9.1m
+[08:23:03.234] CutthroatTrout changing depth from 5.8m to 5.1m
+[08:23:03.234] MountainWhitefish changing depth from 5.1m to 9.4m
+[08:23:03.255] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.273] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.290] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.308] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.327] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.346] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.364] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.364] LongnoseSucker starts swimming burst
+[08:23:03.383] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.403] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.424] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.446] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.466] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.489] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.509] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.529] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.547] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.547] MountainWhitefish starts swimming burst
+[08:23:03.564] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.584] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.602] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.625] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.643] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.662] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.683] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.702] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.720] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.741] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.763] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.785] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.804] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.825] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.845] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.864] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.885] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.902] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.919] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.935] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.951] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.969] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:03.987] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.010] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.031] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.048] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.065] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.065] LongnoseSucker gliding
+[08:23:04.082] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.097] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.110] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.124] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.137] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.152] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.164] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.176] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.188] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.188] MountainWhitefish gliding
+[08:23:04.200] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.214] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.227] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.241] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.254] 🎣 Sauger CAUGHT! Weight: 1.42lbs
+[08:23:04.269] 🎣 Sauger CAUGHT! Weight: 1.42lbs

@@ -1,0 +1,1463 @@
+=== COLLISION DEBUG - 2025-10-20 04:53:48.186 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:00:54.627 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:20:41.338 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:21:16.443 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:21:38.522 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:33:55.715 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:39:19.591 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:41:05.579 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:51:25.272 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 05:57:19.938 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 11:31:41.552 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 12:30:29.586 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 12:39:06.643 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 12:39:37.844 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 12:40:28.639 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 12:42:11.055 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 12:42:32.385 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 12:43:06.772 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 12:47:01.635 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-20 15:25:23.092 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 05:48:53.210 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 05:54:29.782 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 05:56:23.936 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 05:57:39.260 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 05:57:46.370 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:06:08.291 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:09:46.879 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:13:41.741 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:14:30.260 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:20:47.702 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:25:28.138 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:29:41.637 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:29:54.192 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:31:23.895 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:32:17.395 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:33:02.478 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:33:15.267 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:33:33.096 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:39:58.060 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:40:59.644 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:41:47.660 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:42:12.542 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:55:11.007 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:57:45.431 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:59:24.807 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:59:38.164 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 06:59:51.576 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 07:03:56.834 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 07:07:56.394 ===
+position field: {X:6944 Y:7008}
+sprite position: {X:6944 Y:7008}
+playerRect: {X:6912 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 704.00
+================================
+
+=== COLLISION DEBUG - 2025-10-21 07:10:01.387 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 07:12:37.183 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-21 07:13:49.490 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 07:22:47.454 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-21 07:24:02.437 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-21 07:25:59.042 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 04:38:29.977 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 05:30:36.174 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 08:54:28.370 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 08:55:10.447 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 08:57:49.095 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 09:01:48.677 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 09:03:16.895 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 09:05:17.822 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-23 09:07:08.297 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 09:07:16.638 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 09:08:10.660 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-23 10:58:39.219 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 10:59:32.875 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-23 11:22:18.832 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 11:23:10.627 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 11:24:24.395 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-23 11:26:06.897 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-23 12:33:52.511 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 12:40:26.544 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 12:52:17.883 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 12:56:31.193 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 12:58:03.675 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 12:58:33.682 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 12:58:49.960 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:02:27.584 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:03:34.704 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:03:49.934 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:05:18.691 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:05:41.896 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:11:37.648 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:13:12.279 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:14:17.679 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:14:24.688 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:15:13.859 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:15:23.791 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:15:32.989 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:46:39.203 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:48:12.917 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:53:12.018 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:53:50.149 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:55:01.513 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:56:10.248 ===
+position field: {X:6944 Y:7008}
+sprite position: {X:6944 Y:7008}
+playerRect: {X:6912 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 704.00
+================================
+
+=== COLLISION DEBUG - 2025-10-23 13:58:01.082 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:06:12.110 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:07:57.208 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:09:21.936 ===
+position field: {X:6240 Y:7136}
+sprite position: {X:6240 Y:7136}
+playerRect: {X:6208 Y:7104 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 128.00
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:10:26.274 ===
+position field: {X:6240 Y:7008}
+sprite position: {X:6240 Y:7008}
+playerRect: {X:6208 Y:6976 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 64.00
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 1 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:12:21.207 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 4 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:13:05.981 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:14:55.594 ===
+position field: {X:6944 Y:6944}
+sprite position: {X:6944 Y:6944}
+playerRect: {X:6912 Y:6912 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: False, Center Distance: 715.54
+Spot Type: ShallowDepth
+Spot Rect: {X:6208 Y:6976 Width:64 Height:64}
+Intersects: False, Center Distance: 706.90
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:16:48.840 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:17:36.307 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:18:41.697 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 3 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:19:13.944 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 6 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 14:19:35.793 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 5 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-23 15:04:05.856 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 2 fish
+================================
+
+=== COLLISION DEBUG - 2025-10-25 08:22:32.154 ===
+position field: {X:6240 Y:7072}
+sprite position: {X:6240 Y:7072}
+playerRect: {X:6208 Y:7040 Width:64 Height:64}
+Number of fishing spots: 2
+Spot Type: MidDepth
+Spot Rect: {X:6208 Y:7040 Width:64 Height:64}
+Intersects: True, Center Distance: 0.00
+*** INTERSECTION FOUND! ***
+Spawned 7 fish
+================================
+
